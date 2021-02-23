@@ -6,11 +6,11 @@ namespace Donguler
     {
         static void Main(string[] args)
         {
-            string IlkUrun = "Çiçek buketi";
-            string IkinciUrun = "Krem";
-            string UçuncuUrun = "Tablo";
+            string ilkUrun = "Çiçek buketi";
+            string ikinciUrun = "Krem";
+            string uçuncuUrun = "Tablo";
             string[] Urunler = new string[] {
-            IlkUrun, IkinciUrun, UçuncuUrun
+            ilkUrun, ikinciUrun, uçuncuUrun
             };
             int i;
             for (i = 0; i < Urunler.Length; i++)
